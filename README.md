@@ -16,6 +16,3 @@ We have not test complicate cases yet,  so there may be errors when executing co
 ### Testing
 There is a shell script called ```runit.sh``` that demonstrates some functionality of this file system.
 
-### Other
-
-Thank you for your time to read our assignment, we know it's quite heavy work and we've try our best to write meaningful comments. We also decide to retain the print statements in create_inode, which we initially used to debug, but it may be convenient for you to test our work. Wish you a merry semester : )
